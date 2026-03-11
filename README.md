@@ -1,4 +1,4 @@
-#UserLookup
+# UserLookup
 A library to convert UserID -> username, username -> UserID and retrieve player's store items (or specifically gamepasses)
 
 ### Usage
